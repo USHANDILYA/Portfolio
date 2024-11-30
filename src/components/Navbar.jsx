@@ -218,7 +218,7 @@ import React from "react";
 import { FaCaretDown } from "react-icons/fa";
 
 const Menu = [
-  { id: 1, name: "Skills", link: "/#Skills" },
+  { id: 1, name: "Skills", link: "/#skills" },
   { id: 2, name: "Research Publications", link: "/#ResearchPublications" },
   { id: 3, name: "Experience", link: "/#experience" },
   { id: 4, name: "Contact Me", link: "/#contact" },
