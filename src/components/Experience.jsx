@@ -87,16 +87,25 @@ export default function Experience() {
     <section id="experience" className="py-16 bg-gray-50">
       <h2 className="text-4xl font-bold text-center text-primary mb-10">Experience</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div className="bg-white p-6 rounded-lg shadow-xl transform transition-all duration-500 hover:scale-105 hover:shadow-2xl hover:translate-y-2 opacity-0 motion-safe:animate-fadeIn">
+          <h3 className="text-2xl font-semibold text-primary mb-3">Avian We., Delhi, India – Junior Data Analyst (Hybrid)</h3>
+          <p className="text-sm text-gray-500 mb-4">01/2025-Present</p>
+          <ul className="list-disc pl-6 text-gray-700">
+            <li>Managed end-to-end data reporting, dashboard creation (Power BI), and brand monitoring across multiple clients
+using Power Query, Talkwalker, and custom tools.Developed predictive models (eg.XGBoost), automated data
+pipelines, and delivered regular insights through visual reports and stakeholder presentations.</li>
+          </ul>
+        </div>
         <div className="bg-white p-6 rounded-lg shadow-xl transform transition-all duration-500 hover:scale-105 hover:shadow-2xl hover:translate-y-2 opacity-0 motion-safe:animate-fadeIn">
           <h3 className="text-2xl font-semibold text-primary mb-3">Norwegian University of Science and Technology, Gjøvik, Norway – Research Intern (Remote)</h3>
-          <p className="text-sm text-gray-500 mb-4">05/2024-Present</p>
+          <p className="text-sm text-gray-500 mb-4">05/2024-10/2024</p>
           <ul className="list-disc pl-6 text-gray-700">
             <li>Developed a Human Activity Recognizer using CNN and LSTM under the Intelligent Systems and Analytics group using TensorFlow and OpenPose.</li>
           </ul>
         </div>
 
         <div className="bg-white p-6 rounded-lg shadow-xl transform transition-all duration-500 hover:scale-105 hover:shadow-2xl hover:translate-y-2 opacity-0 motion-safe:animate-fadeIn">
-          <h3 className="text-2xl font-semibold text-primary mb-3">Bokaro Steel Limited, SAIL, Bokaro Steel City - Project Trainee</h3>
+          <h3 className="text-2xl font-semibold text-primary mb-3">Bokaro Steel Limited, SAIL, Bokaro Steel City - Project Trainee (On-site)</h3>
           <p className="text-sm text-gray-500 mb-4">07/2023 – 08/2023</p>
           <ul className="list-disc pl-6 text-gray-700">
             <li>Developed a "Face Recognition and Attendance System" using Flask, scikit-learn, matplotlib, pandas, numpy, OpenCV, and TensorFlow, achieving 95% accuracy in face recognition and reducing manual efforts by 60% through automated attendance tracking.</li>

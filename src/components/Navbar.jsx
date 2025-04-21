@@ -311,7 +311,7 @@ const Navbar = () => {
             {/* Contact Us, Resume and Email buttons */}
             <li>
             <a
-                href="https://drive.google.com/file/d/1D-pkfeFtBxk2Qyl6w1XS86_ZUgwd13iv/view?usp=sharing" // Replace with your actual resume link
+                href="https://drive.google.com/file/d/1urjbJky598Dg1OdGF3eW2_6-l-whdoki/view?usp=drive_link" // Replace with your actual resume link
                 download
                 className="bg-white text-primary font-semibold text-sm py-2 px-4 rounded-full duration-200 hover:bg-primary hover:text-white"
               >
@@ -320,7 +320,7 @@ const Navbar = () => {
             </li>
             <li>
               <a
-                href="mailto:your-email@example.com" // Replace with your actual email
+                href="mailto:utyk1001169@gmail.com" // Replace with your actual email
                 className="bg-white text-primary font-semibold text-sm py-2 px-4 rounded-full duration-200 hover:bg-primary hover:text-white"
               >
                 Email Me
@@ -337,7 +337,7 @@ const Navbar = () => {
               Contact Me
             </a>
             <a
-              href="https://drive.google.com/file/d/1D-pkfeFtBxk2Qyl6w1XS86_ZUgwd13iv/view?usp=sharing" // Replace with your actual resume link
+              href="https://drive.google.com/file/d/1urjbJky598Dg1OdGF3eW2_6-l-whdoki/view?usp=drive_link" // Replace with your actual resume link
               download
               className="bg-white text-primary font-semibold text-sm py-2 px-4 rounded-full duration-200 hover:bg-primary hover:text-white"
             >
